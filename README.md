@@ -1,16 +1,16 @@
 # v2rayN
 
-### A GUI client for Windows, Linux and macOS. Support [Xray](https://github.com/sinspired/Xray-core) and [sing-box](https://github.com/SagerNet/sing-box) and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores)
+### A GUI client for Windows, Linux and macOS. Support [Xray](https://github.com/sinspired/Xray-core) and [sing-box](https://github.com/SagerNet/sing-box) and [others](https://github.com/sinspired/v2rayN/wiki/List-of-supported-cores)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/2dust/v2rayn/badge)](https://www.codefactor.io/repository/github/2dust/v2rayn)
-[![Release](https://img.shields.io/github/v/release/2dust/v2rayN?logo=github&label=Release)](https://github.com/2dust/v2rayN/releases)
-[![Downloads](https://img.shields.io/github/downloads/2dust/v2rayN/latest/total?logo=github&label=Downloads)](https://github.com/2dust/v2rayN/releases)
+[![CodeFactor](https://www.codefactor.io/repository/github/sinspired/v2rayN/badge)](https://www.codefactor.io/repository/github/sinspired/v2rayN)
+[![Release](https://img.shields.io/github/v/release/sinspired/v2rayN?logo=github&label=Release)](https://github.com/sinspired/v2rayN/releases)
+[![Downloads](https://img.shields.io/github/downloads/sinspired/v2rayN/latest/total?logo=github&label=Downloads)](https://github.com/sinspired/v2rayN/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=telegram)](https://t.me/v2rayn)
  
-[![Windows](https://img.shields.io/badge/Windows-supported-0078D6?logo=windows)](https://github.com/2dust/v2rayN) 
-[![Linux](https://img.shields.io/badge/Linux-supported-FCC624?logo=linux&logoColor=000)](https://github.com/2dust/v2rayN) 
-[![macOS](https://img.shields.io/badge/macOS-supported-000000?logo=apple)](https://github.com/2dust/v2rayN) 
-[![GPG Signed](https://img.shields.io/badge/GPG-signed-4B32C3?logo=gnuprivacyguard)](https://github.com/2dust/v2rayN)
+[![Windows](https://img.shields.io/badge/Windows-supported-0078D6?logo=windows)](https://github.com/sinspired/v2rayN) 
+[![Linux](https://img.shields.io/badge/Linux-supported-FCC624?logo=linux&logoColor=000)](https://github.com/sinspired/v2rayN) 
+[![macOS](https://img.shields.io/badge/macOS-supported-000000?logo=apple)](https://github.com/sinspired/v2rayN) 
+[![GPG Signed](https://img.shields.io/badge/GPG-signed-4B32C3?logo=gnuprivacyguard)](https://github.com/sinspired/v2rayN)
 
 
 ---
@@ -21,14 +21,14 @@ Download the latest release here:
 
 在这里下载最新版本：
 
-[https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases)
+[https://github.com/sinspired/v2rayN/releases](https://github.com/sinspired/v2rayN/releases)
 
 
 > [!TIP]
 > v2rayN is the desktop version. For the mobile version, please visit the v2rayNG \
 > v2rayN 是电脑版，手机版请访问 v2rayNG
 >
-> https://github.com/2dust/v2rayNG
+> https://github.com/sinspired/v2rayNG
 
 ---
 
@@ -38,7 +38,7 @@ Read the Wiki for usage guides and configuration details.
 
 请阅读 Wiki 获取使用说明和配置教程。
 
-[https://github.com/2dust/v2rayN/wiki](https://github.com/2dust/v2rayN/wiki)
+[https://github.com/sinspired/v2rayN/wiki](https://github.com/sinspired/v2rayN/wiki)
 
 ---
 
@@ -50,7 +50,7 @@ Read the Wiki for usage guides and configuration details.
 | Linux           | ✅   | -   | ✅     | ✅       | ✅       |
 | macOS           | ✅   | -   | ✅     | -       | -       |
 
-Minimum OS requirements: [Release files introduction](https://github.com/2dust/v2rayN/wiki/Release-files-introduction) / 最低系统要求：[发布文件介绍](https://github.com/2dust/v2rayN/wiki/Release-files-introduction)
+Minimum OS requirements: [Release files introduction](https://github.com/sinspired/v2rayN/wiki/Release-files-introduction) / 最低系统要求：[发布文件介绍](https://github.com/sinspired/v2rayN/wiki/Release-files-introduction)
 
 ---
 
