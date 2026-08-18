@@ -1774,7 +1774,7 @@
     <value>有更新</value>
   </data>
   <data name="MsgAllowInsecureDeprecated" xml:space="preserve">
-    <value>请启用 TLS 等安全加密，或固定证书 pinSHA256；讨论 https://github.com/2dust/v2rayN/discussions/9460</value>
+    <value>请启用 TLS 等安全加密，或固定证书 pinSHA256；讨论 https://github.com/sinspired/v2rayN/discussions/9460</value>
   </data>
   <data name="TbVerifyPeerCertByName" xml:space="preserve">
     <value>Verify Peer Cert By Name</value>

@@ -1,7 +1,7 @@
 namespace ServiceLib.Models.Dto;
 
 /// <summary>
-/// https://github.com/2dust/v2rayN/wiki/
+/// https://github.com/sinspired/v2rayN/wiki/
 /// </summary>
 [Serializable]
 public class VmessQRCode
