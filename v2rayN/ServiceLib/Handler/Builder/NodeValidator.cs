@@ -136,7 +136,7 @@ public class NodeValidator
                 && item.Cert.IsNullOrEmpty()
                 && item.CertSha.IsNullOrEmpty())
             {
-                v.Warning(ResUI.MsgAllowInsecureDeprecated);
+                // v.Warning(ResUI.MsgAllowInsecureDeprecated);
             }
 
             if ((coreType == ECoreType.Xray
