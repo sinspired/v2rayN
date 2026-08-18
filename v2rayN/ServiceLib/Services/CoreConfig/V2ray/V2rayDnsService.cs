@@ -128,7 +128,7 @@ public partial class CoreConfigV2rayService
         {
             var fakeipNetwork = IPNetwork2.Parse(fakeipRange);
             var totalIPs = fakeipNetwork.Total;
-            // see https://github.com/XTLS/Xray-core/blob/6e3322d219140a025285ded1114fe17a5edb74d8/app/dns/fakedns/fake.go#L88
+            // see https://github.com/sinspired/Xray-core/blob/6e3322d219140a025285ded1114fe17a5edb74d8/app/dns/fakedns/fake.go#L88
             // if math.Log2(float64(lruSize)) >= float64(rooms) { return errors.New("LRU size is bigger than subnet size").AtError() }
             totalIPs -= 1;
             if (totalIPs > 0)
