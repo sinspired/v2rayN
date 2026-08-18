@@ -1,6 +1,6 @@
 # v2rayN
 
-### A GUI client for Windows, Linux and macOS. Support [Xray](https://github.com/XTLS/Xray-core) and [sing-box](https://github.com/SagerNet/sing-box) and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores)
+### A GUI client for Windows, Linux and macOS. Support [Xray](https://github.com/sinspired/Xray-core) and [sing-box](https://github.com/SagerNet/sing-box) and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/2dust/v2rayn/badge)](https://www.codefactor.io/repository/github/2dust/v2rayn)
 [![Release](https://img.shields.io/github/v/release/2dust/v2rayN?logo=github&label=Release)](https://github.com/2dust/v2rayN/releases)
@@ -45,10 +45,10 @@ Read the Wiki for usage guides and configuration details.
 ## Supported Platforms / 支持平台
 
 | Platform / 平台 | x64 | x86 | arm64 | riscv64 | loong64 |
-| --- | --- | --- | --- | --- | --- |
-| Windows | ✅ | ✅ | ✅ | - | - |
-| Linux | ✅ | - | ✅ | ✅ | ✅ |
-| macOS | ✅ | - | ✅ | - | - |
+| --------------- | --- | --- | ----- | ------- | ------- |
+| Windows         | ✅   | ✅   | ✅     | -       | -       |
+| Linux           | ✅   | -   | ✅     | ✅       | ✅       |
+| macOS           | ✅   | -   | ✅     | -       | -       |
 
 Minimum OS requirements: [Release files introduction](https://github.com/2dust/v2rayN/wiki/Release-files-introduction) / 最低系统要求：[发布文件介绍](https://github.com/2dust/v2rayN/wiki/Release-files-introduction)
 
